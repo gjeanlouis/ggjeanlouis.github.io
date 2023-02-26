@@ -135,7 +135,7 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Kote Lakaym: Mapping Haitian Writers in Exile
-        link: https://gjeanlouis.github.io/aboutkotelakaym/
+        link: "https://gjeanlouis.github.io/aboutkotelakaym/"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: DevStudio
