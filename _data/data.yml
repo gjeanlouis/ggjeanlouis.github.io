@@ -134,8 +134,8 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Kote Lakaym: Mapping Haitian Writers in Exile
-        link: gjeanlouis.github.io/aboutkotelakaym/
+      - title: Kote Lakaym Mapping Haitian Writers in Exile
+        link: "#"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: DevStudio
