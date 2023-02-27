@@ -12,18 +12,18 @@ sidebar:
     avatar: headshot22.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: gmj37@miami.edu
+    phone: 516 XXX XXX
+    timezone: America/Eastern Timezone
     citizenship:
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    linkedin: gabriellejeanlouis
+    xing: none
+    github: gjeanlouis
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@gabiejean_'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -35,19 +35,18 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
+        - idiom: Kreyol
           level: Professional
 
-        - idiom: Spanish
-          level: Professional
+
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Astrology
           link:
 
-        - item: Snowboarding
+        - item: Fiction
           link:
 
         - item: Cooking
@@ -56,12 +55,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Gabrielle Mary Jean-Louis is a PhD student in the Department of English at the University of Miami. Her research focus on contemporary Haitian literary and visual culture explores the ways in which Haitian women creatives present modes of resistance that acts as a counter balance to sexual anxieties rooted in U.S. imperialism and occupation between 1915 and 1934, and then again in 1994. Her critical inquiry also considers these modes of resistance as they occur in the literary landscapes during the father-son Duvalier regime (1957–1986). Her forthcoming essay *A Black Feminist Gaze Haitian Female Artists Reimagining Spiritual Iconography* for the **Perez Art Museum Miami Caribbean Cultural Institute** argues how Haitian female artists render a gaze that disrupts patriarchal dominance and Eurocentric religiosity. She has presented her work at the Modern Language Association Annual Convention and the Caribbean Studies Association Annual Conference. 
 education:
     title: Education
     info:
