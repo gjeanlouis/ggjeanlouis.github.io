@@ -124,27 +124,25 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Here are my digital projects, many of which are still in progress.
     assignments:
       - title: Kote Lakaym Mapping Haitian Writers in Exile
-        link: "https://gjeanlouis.github.io/"
-        tagline: "https://gjeanlouis.github.io/"
+        link: "https://gjeanlouis.github.io/aboutkotelakaym/"
+        tagline: "Where is my home? At the intersection of Caribbean Studies and Digital Humanities, this project maps the diasporic locations of Haitian writers exiled by the Duvalier Regime"
 
-      - title: DevStudio
+      - title: TBD
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
+      - title: TBD
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
+      - title: TBD
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
+      - title: TBD
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
