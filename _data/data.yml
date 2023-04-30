@@ -114,21 +114,6 @@ projects:
         link: "https://gjeanlouis.github.io/aboutkotelakaym/"
         tagline: "Where is my home? At the intersection of Caribbean Studies and Digital Humanities, this project maps the diasporic locations of Haitian writers exiled by the Duvalier Regime"
 
-      - title: TBD
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: TBD
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: TBD
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: TBD
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
     title: OSS Contributions
@@ -155,9 +140,8 @@ publications:
       Listed below are a variety of publications in the form of reviews, review essays, and public facing articles.
     papers:
       - title: "Met fanm Sou Ou: An Afro Diasporic Feminist Cosmology in Edwidge Danticat *Breath, Eyes, Memory* (MaComere ACWWS, Under Review)"
-        link: "#"
         authors: Gabrielle M. Jean-Louis
-        conference: "MLA 2023: Black Immigrants At Work"
+        conference: "Originally Presented at MLA 2023: Black Immigrants At Work"
 
       - title: "A Black Feminist Gaze: Haitian Female Artists Reimagining Spiritual Iconography (Forthcoming)"
         link: "#"
