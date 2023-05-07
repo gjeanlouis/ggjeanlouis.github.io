@@ -73,8 +73,3 @@ There are 6 color schemes available:
 ## Credits
 
 Special Thanks to Susanna Allés Torrent, Associate Professor & Associate Chair in the Modern Languages & Literatures Department at the University of Miami for all of your help. 
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=sharu725/online-cv&type=Date)](https://star-history.com/#sharu725/online-cv&Date)
-
