@@ -3,10 +3,10 @@
 </a>
 
 # Gabrielle M. Jean-Louis Portfolio
-> This theme derives from a template designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/).
+> I designed my portfolio using a template from Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/).
 > Visit her [website](http://themes.3rdwavemedia.com/) for more themes.
 
-I have made this into a Jekyll Theme. Checkout the live demo [here](https://online-cv.webjeda.com).
+I have made this into a Jekyll Theme. Checkout the live demo [here](https://online-cv.webjeda.com) to create your own.
 
 <table>
   <tr>
@@ -72,4 +72,5 @@ There are 6 color schemes available:
 
 ## Credits
 
-Special Thanks to Susanna Allés Torrent, Associate Professor & Associate Chair in the Modern Languages & Literatures Department at the University of Miami for all of your help. 
+Special Thanks to Susanna Allés Torrent, Associate Professor & Associate Chair in the Modern Languages & Literatures Department at the University of Miami for all of your help.
+View her [website](http://susannalles.com/).
